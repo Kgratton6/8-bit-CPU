@@ -43,5 +43,5 @@ To set up the project on your local machine, follow these steps:
    
 ## 🛠️Technologies Used
 
-- **Logisim**: A graphical tool for designing and simulating digital circuits.
-- **Exel** : Used for containing instruction information and simulating assembly.
+- **Logisim**: For designing and simulating digital circuits.
+- **Exel** : For containing instruction information and simulating assembly.
