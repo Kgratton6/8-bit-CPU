@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves designing an 8-bit CPU from scratch. The design process began with creating a manual design, followed by defining the instruction set and bit responsibilities. I then developed individual components using Logisim, such as the adder, subtractor, ALU, and registers. The final integration included building a decoder for instructions and a program counter (PC) to execute instructions sequentially.
+This project involves designing an 8-bit CPU from scratch. The design process began with creating a manual design, followed by defining the instruction set. I then developed individual components using Logisim, such as the adder, subtractor, ALU, and registers. The final integration included building a decoder for instructions and a program counter (PC) to execute instructions sequentially.
 
 ## 🌟 Features
 
