@@ -8,7 +8,7 @@ This project involves designing an 8-bit CPU from scratch. The design process be
 
 - **4 Registers**: The CPU contains four registers for storing data temporarily.
 - **8 ALU Operations**: Supports eight arithmetic and logical operations to handle various computations.
-- **Assembly coding**: Assembly examples.xlsx demonstrates the CPU’s capabilities with assembly code for multiplication and modulo operations, converted into 10-bit instructions.
+- **Assembly coding**: examples.xlsx demonstrates the CPU’s capabilities with assembly code for multiplication and modulo operations, converted into 10-bit instructions.
 
 ## 📸 Project Screenshots
 
