@@ -33,13 +33,11 @@ To set up the project on your local machine, follow these steps:
 
 1. **Clone the repository**
 
-2. **Install Logisim**:
-   ```sh
-   Download Logisim from [Logisim SourceForge] (https://sourceforge.net/projects/circuit/).
-3. **Download the Latest Version of Java**:
-   ```sh
-   You can download it from Java [Downloads](https://www.oracle.com/java/technologies/downloads/#java11)
-4. **Open Logisim**:
+2. **Install Logisim**:  
+   Download Logisim from [Logisim SourceForge](https://sourceforge.net/projects/circuit).
+4. **Download the Latest Version of Java**:  
+   You can download it from [Java Downloads](https://www.oracle.com/java/technologies/downloads/#java11)
+5. **Open Logisim**:
    ```sh
    file > open > CPU.circ
    
