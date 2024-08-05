@@ -13,7 +13,7 @@ This project involves designing an 8-bit CPU from scratch. The design process be
 ## 📸 Project Screenshots
 
 ### CPU 
-![CPU](img/cpu.png)
+![CPU](img/cpu2.png)
 
 ### 13 mod 5 example
 
