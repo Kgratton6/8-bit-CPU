@@ -16,11 +16,8 @@ This project involves designing an 8-bit CPU from scratch. The design process be
 ![CPU](img/cpu.png)
 
 ### 13 mod 5 example
-![CPU](img/example.mp4)
 
 https://github.com/user-attachments/assets/68b65619-bf80-42d1-a246-0337b613579c
-
-
 
 ### Decoder
 ![Decoder](img/decoder.png)
